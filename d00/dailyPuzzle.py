@@ -1,6 +1,5 @@
 from dxx.superDailyPuzzle import SuperDailyPuzzle
 
-from itertools import combinations
 import numpy as np
 
 # advent of code 2021 day 1 as template
