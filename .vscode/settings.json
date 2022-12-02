@@ -8,4 +8,7 @@
         "**/__pycache__": true,
         ".pytest_cache": true,
     },
+    "python.formatting.blackArgs": [
+        "--line-length 140"
+    ],
 }
