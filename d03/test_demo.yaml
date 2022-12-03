@@ -1,0 +1,12 @@
+parse_args: "demo.txt"
+parse_result: 
+  - vJrwpWtwJgWrhcsFMMfFFhFp
+  - jqHRNqRjqzjGDLGLrsFMfFZSrLrFZsSL
+  - PmmdzqPrVvPwwTWBwg
+  - wMqvLMZHhHMvwLHjbvcjnnSBnvTQFn
+  - ttgJtRGJQctTZtZT
+  - CrZsJsPPZsGzwwsLwLmpwMDw
+part_one_args:
+part_one_result: 157
+part_two_args:
+part_two_result: 70
