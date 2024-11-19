@@ -6,8 +6,8 @@ import importlib
 
 #dailyPuzzles = ["d00", "d01", "d02", "d03", "d04", "d05", "d06", "d07", "d08", "d09", "d10", "d11", "d12", "d13", "d14", "d17", "d20", "d21"]
 # dailyPuzzles = ["d00", "d01", "d02", "d03", "d04", "d05", "d06","d08", "d10", "d11"]
-dailyPuzzles = ["d00", "d01", "d02", "d03", "d04", "d05", "d06","d08", "d10", "d14"]
-
+dailyPuzzles = ["d00", "d01", "d02", "d03", "d04", "d05", "d06", "d07", "d08", "d10", "d14", "d18", "d20"]
+# dailyPuzzles = ["d00", "d01", "d02", "d21"]
 # dailyPuzzles = dailyPuzzles[-2:]
 
 if __name__ == "__main__":
